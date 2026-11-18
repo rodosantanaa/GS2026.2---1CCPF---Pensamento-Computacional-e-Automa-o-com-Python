@@ -1,0 +1,239 @@
+[
+    {
+        "id": 1,
+        "categoria": "Documentação",
+        "titulo": "Criar ou acessar a Carteira de Trabalho Digital",
+        "palavras_chave": [
+            "carteira de trabalho digital",
+            "ctps digital",
+            "baixar carteira",
+            "aplicativo carteira",
+            "contratos de trabalho"
+        ],
+        "resposta": "A Carteira de Trabalho Digital é acessada pelo aplicativo oficial ou pelo serviço disponível no gov.br. Entre com sua conta gov.br para consultar os contratos de trabalho registrados. A versão digital substitui a necessidade de emitir uma carteira física para novos registros.",
+        "documentos": [
+            "Conta gov.br"
+        ],
+        "onde": "Aplicativo Carteira de Trabalho Digital ou serviço oficial no portal gov.br.",
+        "fonte": "https://www.gov.br/pt-br/apps/ctps-digital",
+        "verificado_em": "2026-11-18"
+    },
+    {
+        "id": 2,
+        "categoria": "Documentação",
+        "titulo": "Consultar ou regularizar o CPF",
+        "palavras_chave": [
+            "cpf",
+            "cadastro pessoa fisica",
+            "comprovante cpf",
+            "situacao cadastral",
+            "regularizar cpf"
+        ],
+        "resposta": "A Receita Federal oferece serviços digitais para consultar a situação cadastral e emitir o comprovante de inscrição no CPF. Se houver necessidade de regularização, consulte as orientações oficiais da Receita para identificar o procedimento adequado ao seu caso.",
+        "documentos": [
+            "Documento de identificação, conforme a solicitação do serviço"
+        ],
+        "onde": "Portal de serviços da Receita Federal; siga as instruções específicas do serviço escolhido.",
+        "fonte": "https://www.gov.br/receitafederal/pt-br/assuntos/meu-cpf",
+        "verificado_em": "2026-11-18"
+    },
+    {
+        "id": 3,
+        "categoria": "Documentação",
+        "titulo": "Solicitar o primeiro título de eleitor",
+        "palavras_chave": [
+            "titulo de eleitor",
+            "primeiro titulo",
+            "alistamento eleitoral",
+            "titulo eleitoral",
+            "tse"
+        ],
+        "resposta": "O primeiro título pode ser solicitado pelo Autoatendimento Eleitoral do TSE, quando o serviço estiver disponível, ou em uma unidade da Justiça Eleitoral. Separe documento oficial de identificação e comprovante de vínculo com o município. Confira no TSE as regras, documentos e eventuais períodos de suspensão antes de iniciar.",
+        "documentos": [
+            "Documento oficial de identificação",
+            "Comprovante de vínculo com o município",
+            "Foto segurando o documento, quando exigida no atendimento on-line"
+        ],
+        "onde": "Autoatendimento Eleitoral – Título Net ou cartório/unidade da Justiça Eleitoral. Verifique disponibilidade e agendamento no TRE do seu estado.",
+        "fonte": "https://www.tse.jus.br/servicos-eleitorais/titulo-eleitoral/autoatendimento-eleitoral",
+        "verificado_em": "2026-11-18"
+    },
+    {
+        "id": 4,
+        "categoria": "Direitos trabalhistas",
+        "titulo": "Entender os direitos de quem é jovem aprendiz",
+        "palavras_chave": [
+            "jovem aprendiz",
+            "aprendiz",
+            "aprendizagem profissional",
+            "contrato de aprendizagem",
+            "direitos aprendiz"
+        ],
+        "resposta": "A aprendizagem profissional combina formação teórica e prática. Em regra, é destinada a jovens de 14 anos completos a 24 anos incompletos. O contrato assegura registro em carteira e direitos como remuneração proporcional às horas, FGTS com alíquota de 2%, 13º salário, férias e vale-transporte. Existem regras próprias de jornada e proteção para menores de 18 anos; confira os detalhes na fonte oficial.",
+        "documentos": [
+            "Documentos solicitados pela empresa e pela entidade formadora",
+            "Comprovante de matrícula e frequência escolar, quando aplicável"
+        ],
+        "onde": "Empresa contratante e entidade formadora habilitada; consulte o Ministério do Trabalho e Emprego.",
+        "fonte": "https://www.gov.br/trabalho-e-emprego/pt-br/noticias-e-conteudo/2026/julho/aprendizagem-profissional-regras-direitos-e-funcionamento-do-contrato-de-aprendizagem",
+        "verificado_em": "2026-11-18"
+    },
+    {
+        "id": 5,
+        "categoria": "Direitos trabalhistas",
+        "titulo": "Conferir informações básicas do contrato de trabalho",
+        "palavras_chave": [
+            "contrato de trabalho",
+            "registro em carteira",
+            "clt",
+            "admissao",
+            "vinculo empregaticio"
+        ],
+        "resposta": "Ao começar um emprego formal, confira se os dados do vínculo aparecem na Carteira de Trabalho Digital e se as condições combinadas estão documentadas. Em caso de dúvida sobre registro, jornada ou direitos, procure os canais oficiais do Ministério do Trabalho e Emprego. Esta orientação é geral e não substitui análise do contrato.",
+        "documentos": [
+            "Contrato ou documentos de admissão fornecidos pela empresa",
+            "Carteira de Trabalho Digital"
+        ],
+        "onde": "Aplicativo Carteira de Trabalho Digital e canais de atendimento do Ministério do Trabalho e Emprego.",
+        "fonte": "https://www.gov.br/trabalho-e-emprego/pt-br",
+        "verificado_em": "2026-11-18"
+    },
+    {
+        "id": 6,
+        "categoria": "Direitos trabalhistas",
+        "titulo": "Entender o FGTS e consultar os depósitos",
+        "palavras_chave": [
+            "fgts",
+            "fundo de garantia",
+            "deposito fgts",
+            "conta fgts",
+            "saque fgts"
+        ],
+        "resposta": "O FGTS é formado por depósitos feitos pelo empregador em conta vinculada ao trabalhador, conforme as regras aplicáveis ao contrato. O trabalhador pode consultar informações e serviços pelo aplicativo FGTS e pelos canais oficiais da Caixa. As condições de saque dependem da hipótese prevista em lei.",
+        "documentos": [
+            "Documento de identificação para validação no aplicativo, se solicitado",
+            "Dados de acesso ao serviço oficial"
+        ],
+        "onde": "Aplicativo FGTS e canais oficiais da Caixa Econômica Federal.",
+        "fonte": "https://www.caixa.gov.br/beneficios-trabalhador/fgts/Paginas/default.aspx",
+        "verificado_em": "2026-11-18"
+    },
+    {
+        "id": 7,
+        "categoria": "Direitos trabalhistas",
+        "titulo": "Compreender o desconto e a contribuição ao INSS",
+        "palavras_chave": [
+            "inss",
+            "previdencia",
+            "contribuicao previdenciaria",
+            "desconto salario",
+            "aposentadoria"
+        ],
+        "resposta": "Para empregados com carteira assinada, a contribuição previdenciária é calculada conforme faixas e alíquotas vigentes, com desconto no pagamento e recolhimento conforme as regras. Os valores mudam; consulte a tabela atualizada do INSS e confira o demonstrativo de pagamento.",
+        "documentos": [
+            "Demonstrativo de pagamento, se quiser conferir o desconto",
+            "Dados do vínculo de trabalho"
+        ],
+        "onde": "Tabela oficial de contribuição mensal do INSS e canais Meu INSS.",
+        "fonte": "https://www.gov.br/inss/pt-br/direitos-e-deveres/inscricao-e-contribuicao/tabela-de-contribuicao-mensal/",
+        "verificado_em": "2026-11-18"
+    },
+    {
+        "id": 8,
+        "categoria": "Direitos trabalhistas",
+        "titulo": "Entender o que é o décimo terceiro salário",
+        "palavras_chave": [
+            "decimo terceiro",
+            "13 salario",
+            "gratificacao natalina",
+            "salario extra",
+            "pagamento anual"
+        ],
+        "resposta": "O décimo terceiro salário é uma gratificação anual prevista na legislação trabalhista. O valor e as datas de pagamento dependem das regras aplicáveis ao vínculo e do período trabalhado. Para conferir sua situação, consulte os canais oficiais do Ministério do Trabalho e os documentos fornecidos pelo empregador.",
+        "documentos": [
+            "Demonstrativos de pagamento",
+            "Contrato ou registro do vínculo, se necessário"
+        ],
+        "onde": "Empregador e canais oficiais do Ministério do Trabalho e Emprego.",
+        "fonte": "https://www.gov.br/trabalho-e-emprego/pt-br",
+        "verificado_em": "2026-11-18"
+    },
+    {
+        "id": 9,
+        "categoria": "Emprego e carreira",
+        "titulo": "Buscar vagas de emprego pelo serviço público",
+        "palavras_chave": [
+            "buscar emprego",
+            "vagas de emprego",
+            "sine",
+            "emprega brasil",
+            "procurar trabalho"
+        ],
+        "resposta": "O Portal Emprega Brasil – Trabalhador reúne funcionalidades como busca de vagas de acordo com o perfil profissional e acesso a informações da vida laboral. O acesso é feito com conta gov.br. Também é possível procurar orientação em unidades do SINE, conforme a disponibilidade local.",
+        "documentos": [
+            "Conta gov.br para acesso ao portal",
+            "Informações profissionais para preencher o perfil"
+        ],
+        "onde": "Portal Emprega Brasil – Trabalhador ou unidade do SINE da sua região.",
+        "fonte": "https://www.gov.br/pt-br/servicos/acessar-portal-emprega-brasil-2013-trabalhador",
+        "verificado_em": "2026-11-18"
+    },
+    {
+        "id": 10,
+        "categoria": "Emprego e carreira",
+        "titulo": "Saber quando existe direito ao seguro-desemprego",
+        "palavras_chave": [
+            "seguro desemprego",
+            "demissao sem justa causa",
+            "beneficio desemprego",
+            "solicitar seguro",
+            "trabalhador desempregado"
+        ],
+        "resposta": "O seguro-desemprego formal atende, entre outros requisitos, quem foi dispensado sem justa causa, está desempregado no momento do pedido e cumpre o tempo mínimo de salários exigido para a quantidade de solicitações. Os requisitos variam conforme seja a primeira, segunda ou outra solicitação. Consulte as regras atualizadas antes de pedir.",
+        "documentos": [
+            "Requerimento do seguro-desemprego fornecido pelo empregador",
+            "Documentos e comprovantes indicados pelo serviço oficial"
+        ],
+        "onde": "Aplicativo Carteira de Trabalho Digital, Portal gov.br ou canais do Ministério do Trabalho e Emprego.",
+        "fonte": "https://www.gov.br/trabalho-e-emprego/pt-br/servicos/trabalhador/seguro-desemprego/seguro-desemprego-formal",
+        "verificado_em": "2026-11-18"
+    },
+    {
+        "id": 11,
+        "categoria": "Emprego e carreira",
+        "titulo": "Consultar serviços e informações da vida profissional",
+        "palavras_chave": [
+            "vida profissional",
+            "portal trabalhador",
+            "emprega brasil",
+            "abono salarial",
+            "informacoes trabalhistas"
+        ],
+        "resposta": "O Portal Emprega Brasil – Trabalhador permite consultar informações da Carteira de Trabalho Digital, acompanhar requerimento de seguro-desemprego, buscar vagas e obter informações sobre abono salarial. O acesso exige autenticação por conta gov.br.",
+        "documentos": [
+            "Conta gov.br"
+        ],
+        "onde": "Portal Emprega Brasil – Trabalhador.",
+        "fonte": "https://www.gov.br/pt-br/servicos/acessar-portal-emprega-brasil-2013-trabalhador",
+        "verificado_em": "2026-11-18"
+    },
+    {
+        "id": 12,
+        "categoria": "Documentação",
+        "titulo": "Acessar serviços digitais do governo com a conta gov.br",
+        "palavras_chave": [
+            "gov br",
+            "conta gov",
+            "login governo",
+            "acesso digital",
+            "senha gov"
+        ],
+        "resposta": "A conta gov.br é utilizada para acessar serviços digitais do governo federal. Use somente os canais oficiais para criar ou recuperar o acesso e nunca compartilhe sua senha ou códigos de autenticação. O nível de acesso exigido pode variar conforme o serviço.",
+        "documentos": [
+            "Dados e documentos solicitados pelo próprio serviço oficial durante a criação ou recuperação da conta"
+        ],
+        "onde": "Portal oficial gov.br, na área de criação ou recuperação de conta.",
+        "fonte": "https://www.gov.br/pt-br/servicos/criar-sua-conta-gov.br",
+        "verificado_em": "2026-11-18"
+    }
+]

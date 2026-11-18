@@ -1,0 +1,57 @@
+[
+    {
+        "data": "2026-11-18T19:35:45",
+        "origem": "pergunta",
+        "pergunta": "como acessar carteira de trabalh odigital?",
+        "id_orientacao": null,
+        "encontrou": false,
+        "ajudou": null,
+        "tentativas": 1,
+        "tempo_segundos": 9.0,
+        "facilidade": null
+    },
+    {
+        "data": "2026-11-18T19:36:09",
+        "origem": "pergunta",
+        "pergunta": "Como acessar carteira de trabalho digital?",
+        "id_orientacao": null,
+        "encontrou": false,
+        "ajudou": null,
+        "tentativas": 1,
+        "tempo_segundos": 5.5,
+        "facilidade": null
+    },
+    {
+        "data": "2026-11-18T19:36:29",
+        "origem": "pergunta",
+        "pergunta": "Como acessar carteira de trabalho digital?",
+        "id_orientacao": null,
+        "encontrou": false,
+        "ajudou": null,
+        "tentativas": 1,
+        "tempo_segundos": 2.2,
+        "facilidade": null
+    },
+    {
+        "data": "2026-11-18T19:37:46",
+        "origem": "pergunta",
+        "pergunta": "Como acessar carteira de trabalho digital?",
+        "id_orientacao": null,
+        "encontrou": false,
+        "ajudou": null,
+        "tentativas": 1,
+        "tempo_segundos": 2.0,
+        "facilidade": null
+    },
+    {
+        "data": "2026-11-18T19:38:43",
+        "origem": "pergunta",
+        "pergunta": "Como acessar carteira de trabalho digital?",
+        "id_orientacao": 1,
+        "encontrou": true,
+        "ajudou": true,
+        "tentativas": 1,
+        "tempo_segundos": 7.4,
+        "facilidade": 5
+    }
+]

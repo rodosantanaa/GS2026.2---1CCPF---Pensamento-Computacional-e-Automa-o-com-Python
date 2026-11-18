@@ -1,0 +1,1 @@
+# GS2026.2---1CCPF---Pensamento-Computacional-e-Automa-o-com-Python
